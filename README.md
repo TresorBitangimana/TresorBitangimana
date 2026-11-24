@@ -13,7 +13,8 @@
 <p align="left">
 <a href="https://twitter.com/fromtresor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fromtresor" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tresor bitangimana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tresor bitangimana" height="30" width="40" /></a>
-<a href="https://fb.com/tresor bitangimana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tresor bitangimana" height="30" width="40" /></a>
+<a href="https://app.joinhandshake.com/profiles/tresorbitangimana" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Handshake-Profile-blue" alt="Handshake profile" height="30" /></a>
 <a href="https://instagram.com/treasure_1.0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="treasure_1.0.1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tresor5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tresor5" height="30" width="40" /></a>
 </p>
