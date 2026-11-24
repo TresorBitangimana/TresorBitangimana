@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tresorbitangimana&show_icons=true&locale=en&layout=compact" alt="tresorbitangimana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tresorbitangimana&show_icons=true&locale=en" alt="tresorbitangimana" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tresorbitangimana&" alt="tresorbitangimana" /></p>
