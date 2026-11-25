@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Tresor Bitangimana</h1>
-<h3 align="center">A passionate Computer Science student from Fort Worth, TX</h3>
+<h1 align="center">Welcome!!!</h1>
+<h3 align="center">Hi, I am Tresor Bitangimana, I am Computer Science student from Fort Worth, TX</h3>
 
 - I’m currently learning **systems programming**
 
